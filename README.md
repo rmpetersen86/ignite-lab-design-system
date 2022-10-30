@@ -19,7 +19,7 @@ Evento IGNITE LAB promovido pela Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="mysticker" src="./assets/screenshot.png" width="100%">
+  <img alt="Design_System" src="./assets/screenshot.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
